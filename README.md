@@ -33,7 +33,7 @@ Skills: PYTHON & HTML
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NINJA-XD&layout=compact&theme=chartreuse-dark" />
 
-![Profile views](https://gpvc.arturio.dev/X-NINJA-XD )  
+![Profile views](https://gpvc.arturio.dev/X-NINJA-XD)  
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="1500px" max-width="1500px" width="1500px" align="middle" alt="Computador iuriCode">
 
